@@ -1,11 +1,27 @@
-# 🎓 Portfolio Assignment Template
+# 🎓 Week 2 Follow-Up Portfolio Assignment Template
 
-Welcome, student! 👋
-This repository contains everything you need to complete your **portfolio assignment**.
+Welcome back, student! 👋
+This repository contains everything you need to complete your **week 2 follow-up portfolio assignment**.
 
 ## 🗞️ Description
 
-The goal of this assignment is to build a one-page **personal portfolio** that showcases your skills, projects, and experiences. This template provides a basic structure to help you get started.
+Now that you have a portfolio site, your goal for this assignment is to add a **contact form** to your **existing** one-page **personal portfolio** created in your **Week 1 - portfolio assignment**. Ensure you migrate your Week 1 portfolio **source code** for the editable files specified below to this repository, add a contact form to it, and perform some DOM manipulation to display the form data on the webpage after the form is submitted.
+
+> [!IMPORTANT]
+> This week's assignment is not about reinventing the wheel!
+> You **don't need to start from scratch** — just **copy over** your existing code from **Week 1** and **refactor** it to improve,
+> optimize, or add new features i.e a contact form.
+
+## fields required in the contact form
+
+- first name
+- second name
+- email
+- message
+
+> [!CAUTION]
+> Your submission is rendered invalid and you would be given a grade of **zero**
+> if you do not implement DOM manipulation
 
 ## 📁 Project Structure
 
@@ -14,7 +30,7 @@ The goal of this assignment is to build a one-page **personal portfolio** that s
 ├── assets/             # Contains your media files
 │   └── images/         # Store your images here
 ├── styles/             # Contains your CSS files
-│   └── global.css       # ✅ You can edit this file
+│   └── global.css      # ✅ You can edit this file
 ├── .prettierrc.json    # ❌ Do not modify
 ├── SUBMISSION.md       # ✅ You can edit this file
 ├── index.html          # ✅ You can edit this file
